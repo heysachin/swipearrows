@@ -1,5 +1,5 @@
 # swipearrows
-# An Arrow swiping game
-# Simple
-# Addictive
-# Fun
+ An Arrow swiping game
+ Simple
+ Addictive
+ Fun
